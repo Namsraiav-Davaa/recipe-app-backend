@@ -1,0 +1,2 @@
+docker build . => runs the Dockerfile
+docker-compose build => runs the docker-compose.yml
