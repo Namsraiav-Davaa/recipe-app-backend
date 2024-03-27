@@ -6,6 +6,7 @@ from django.contrib.auth.models import (
     PermissionsMixin,
 )
 
+
 class UserManager(BaseUserManager):
     """Manage for users."""
 
